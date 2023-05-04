@@ -1,0 +1,1 @@
+echo "Mon nom est "$1" et j'ai "$2" ans."
